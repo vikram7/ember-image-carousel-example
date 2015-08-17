@@ -1,7 +1,6 @@
 # Image-carousel-example
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Example app to show how an image carousel can be built in Ember without the need of external libraries.
 
 ## Prerequisites
 
